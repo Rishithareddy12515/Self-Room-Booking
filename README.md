@@ -15,4 +15,5 @@ GUI design with Tkinter
 MySQL database integration
 Input validation and form handling
 Real-time availability checks
+
 ✅ Currently developed and tested on macOS. Minor adjustments may be needed for compatibility with other operating systems.
